@@ -1,0 +1,165 @@
+20100709000312_question_1:
+  data_export_identifier: "your_role_with_assignr_com"
+  display_order: 1
+  display_type: default
+  is_mandatory: true
+  pick: any
+  question_group: 
+  reference_identifier: "1"
+  short_text: "What is your role with assignr.com?"
+  survey_section: 20100709000312_survey_section_1
+  text: "What is your role with assignr.com?"
+20100709000312_question_2:
+  data_export_identifier: "you_with_service_you_received"
+  display_order: 2
+  display_type: default
+  is_mandatory: true
+  pick: one
+  question_group: 
+  reference_identifier: "2"
+  short_text: "How satisfied are you with the service you received?"
+  survey_section: 20100709000312_survey_section_1
+  text: "How satisfied are you with the service you received?"
+20100709000312_question_3:
+  data_export_identifier: "with_ease_use_assignr_com"
+  display_order: 3
+  display_type: default
+  is_mandatory: true
+  pick: one
+  question_group: 
+  reference_identifier: "3"
+  short_text: "How satisfied are you with the ease of use of assignr.com?"
+  survey_section: 20100709000312_survey_section_1
+  text: "How satisfied are you with the ease of use of assignr.com?"
+20100709000312_question_4:
+  data_export_identifier: "with_our_assignr_com_overall"
+  display_order: 4
+  display_type: default
+  is_mandatory: true
+  pick: one
+  question_group: 
+  reference_identifier: "4"
+  short_text: "How satisfied are you with our assignr.com overall?"
+  survey_section: 20100709000312_survey_section_1
+  text: "How satisfied are you with our assignr.com overall?"
+20100709000312_question_5:
+  data_export_identifier: "you_recommend_our_service_others"
+  display_order: 5
+  display_type: default
+  is_mandatory: true
+  pick: one
+  question_group: 
+  reference_identifier: "5"
+  short_text: "How likely would you recommend our service to others?"
+  survey_section: 20100709000312_survey_section_1
+  text: "How likely would you recommend our service to others?"
+20100709000312_question_6:
+  data_export_identifier: "decision_use_assignr_com_service"
+  display_order: 6
+  display_type: default
+  is_mandatory: true
+  pick: one
+  question_group: 
+  reference_identifier: "6"
+  short_text: "Were you involved in the decision to use the assignr.com service?"
+  survey_section: 20100709000312_survey_section_1
+  text: "Were you involved in the decision to use the assignr.com service?"
+20100709000312_question_7:
+  data_export_identifier: "with_decision_use_assignr_com"
+  display_order: 7
+  display_type: default
+  is_mandatory: true
+  pick: one
+  question_group: 
+  reference_identifier: "7"
+  short_text: "How satisfied are you with the decision to use assignr.com?"
+  survey_section: 20100709000312_survey_section_1
+  text: "How satisfied are you with the decision to use assignr.com?"
+20100709000312_question_8:
+  data_export_identifier: "you_with_price_assignr_com"
+  display_order: 8
+  display_type: default
+  is_mandatory: true
+  pick: one
+  question_group: 
+  reference_identifier: "8"
+  short_text: "How satisfied are you with the price of assignr.com?"
+  survey_section: 20100709000312_survey_section_1
+  text: "How satisfied are you with the price of assignr.com?"
+20100709000312_question_9:
+  data_export_identifier: "assignr_com_beyond_current_season"
+  display_order: 9
+  display_type: default
+  is_mandatory: true
+  pick: one
+  question_group: 
+  reference_identifier: "9"
+  short_text: "How likely are you to use assignr.com beyond the current season?"
+  survey_section: 20100709000312_survey_section_1
+  text: "How likely are you to use assignr.com beyond the current season?"
+20100709000312_question_10:
+  data_export_identifier: "you_like_about_assignr_com"
+  display_order: 10
+  display_type: default
+  is_mandatory: true
+  pick: none
+  question_group: 
+  reference_identifier: "10"
+  short_text: "What do you like about assignr.com?"
+  survey_section: 20100709000312_survey_section_1
+  text: "What do you like about assignr.com?"
+20100709000312_question_11:
+  data_export_identifier: "not_like_about_assignr_com"
+  display_order: 11
+  display_type: default
+  is_mandatory: true
+  pick: none
+  question_group: 
+  reference_identifier: "11"
+  short_text: "What do you not like about assignr.com?"
+  survey_section: 20100709000312_survey_section_1
+  text: "What do you not like about assignr.com?"
+20100709000312_question_12:
+  data_export_identifier: "any_other_comments"
+  display_order: 12
+  display_type: default
+  is_mandatory: true
+  pick: none
+  question_group: 
+  reference_identifier: "12"
+  short_text: "Any other comments?"
+  survey_section: 20100709000312_survey_section_1
+  text: "Any other comments?"
+20100709000312_question_13:
+  data_export_identifier: "our_website_as_promotional_material"
+  display_order: 13
+  display_type: default
+  is_mandatory: true
+  pick: one
+  question_group: 
+  reference_identifier: "13"
+  short_text: "Can we use any of your words on our website as promotional material?"
+  survey_section: 20100709000312_survey_section_1
+  text: "Can we use any of your words on our website as promotional material?"
+20100709000312_question_14:
+  data_export_identifier: "with_first_name_and_location"
+  display_order: 14
+  display_type: default
+  is_mandatory: true
+  pick: none
+  question_group: 
+  reference_identifier: "14"
+  short_text: "If yes, we like to attribute testimonials with a first name and a location (like 'Bob, California')."
+  survey_section: 20100709000312_survey_section_1
+  text: "If yes, we like to attribute testimonials with a first name and a location (like 'Bob, California')."
+20100709000312_question_15:
+  data_export_identifier: "provide_your_e_mail_address"
+  display_order: 15
+  display_type: default
+  is_mandatory: true
+  pick: none
+  question_group: 
+  reference_identifier: "15"
+  short_text: "Would you like us to follow up with you regarding this survey?  If so, please provide your e-mail address."
+  survey_section: 20100709000312_survey_section_1
+  text: "Would you like us to follow up with you regarding this survey?  If so, please provide your e-mail address."

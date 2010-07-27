@@ -1,0 +1,490 @@
+20100709000312_answer_1:
+  data_export_identifier: "assignor"
+  display_order: 1
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_1
+  reference_identifier: "1"
+  response_class: "answer"
+  short_text: "Assignor"
+  text: "Assignor"
+20100709000312_answer_2:
+  data_export_identifier: "referee"
+  display_order: 2
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_1
+  reference_identifier: "2"
+  response_class: "answer"
+  short_text: "Referee"
+  text: "Referee"
+20100709000312_answer_3:
+  data_export_identifier: "administrator"
+  display_order: 3
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_1
+  reference_identifier: "3"
+  response_class: "answer"
+  short_text: "Administrator"
+  text: "Administrator"
+20100709000312_answer_4:
+  data_export_identifier: "other"
+  display_order: 4
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_1
+  reference_identifier: "4"
+  response_class: "answer"
+  short_text: "Other"
+  text: "Other"
+20100709000312_answer_5:
+  data_export_identifier: "very_satisfied"
+  display_order: 1
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_2
+  reference_identifier: 
+  response_class: "answer"
+  short_text: "Very Satisfied"
+  text: "Very Satisfied"
+20100709000312_answer_6:
+  data_export_identifier: "satisfied"
+  display_order: 2
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_2
+  reference_identifier: 
+  response_class: "answer"
+  short_text: "Satisfied"
+  text: "Satisfied"
+20100709000312_answer_7:
+  data_export_identifier: "neutral"
+  display_order: 3
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_2
+  reference_identifier: 
+  response_class: "answer"
+  short_text: "Neutral"
+  text: "Neutral"
+20100709000312_answer_8:
+  data_export_identifier: "dissatisfied"
+  display_order: 4
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_2
+  reference_identifier: 
+  response_class: "answer"
+  short_text: "Dissatisfied"
+  text: "Dissatisfied"
+20100709000312_answer_9:
+  data_export_identifier: "very_dissatisfied"
+  display_order: 5
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_2
+  reference_identifier: 
+  response_class: "answer"
+  short_text: "Very Dissatisfied"
+  text: "Very Dissatisfied"
+20100709000312_answer_10:
+  data_export_identifier: "n"
+  display_order: 6
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_2
+  reference_identifier: 
+  response_class: "answer"
+  short_text: "N/A"
+  text: "N/A"
+20100709000312_answer_11:
+  data_export_identifier: "very_satisfied"
+  display_order: 1
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_3
+  reference_identifier: 
+  response_class: "answer"
+  short_text: "Very Satisfied"
+  text: "Very Satisfied"
+20100709000312_answer_12:
+  data_export_identifier: "satisfied"
+  display_order: 2
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_3
+  reference_identifier: 
+  response_class: "answer"
+  short_text: "Satisfied"
+  text: "Satisfied"
+20100709000312_answer_13:
+  data_export_identifier: "neutral"
+  display_order: 3
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_3
+  reference_identifier: 
+  response_class: "answer"
+  short_text: "Neutral"
+  text: "Neutral"
+20100709000312_answer_14:
+  data_export_identifier: "dissatisfied"
+  display_order: 4
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_3
+  reference_identifier: 
+  response_class: "answer"
+  short_text: "Dissatisfied"
+  text: "Dissatisfied"
+20100709000312_answer_15:
+  data_export_identifier: "very_dissatisfied"
+  display_order: 5
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_3
+  reference_identifier: 
+  response_class: "answer"
+  short_text: "Very Dissatisfied"
+  text: "Very Dissatisfied"
+20100709000312_answer_16:
+  data_export_identifier: "very_satisfied"
+  display_order: 1
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_4
+  reference_identifier: 
+  response_class: "answer"
+  short_text: "Very Satisfied"
+  text: "Very Satisfied"
+20100709000312_answer_17:
+  data_export_identifier: "satisfied"
+  display_order: 2
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_4
+  reference_identifier: 
+  response_class: "answer"
+  short_text: "Satisfied"
+  text: "Satisfied"
+20100709000312_answer_18:
+  data_export_identifier: "neutral"
+  display_order: 3
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_4
+  reference_identifier: 
+  response_class: "answer"
+  short_text: "Neutral"
+  text: "Neutral"
+20100709000312_answer_19:
+  data_export_identifier: "dissatisfied"
+  display_order: 4
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_4
+  reference_identifier: 
+  response_class: "answer"
+  short_text: "Dissatisfied"
+  text: "Dissatisfied"
+20100709000312_answer_20:
+  data_export_identifier: "very_dissatisfied"
+  display_order: 5
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_4
+  reference_identifier: 
+  response_class: "answer"
+  short_text: "Very Dissatisfied"
+  text: "Very Dissatisfied"
+20100709000312_answer_21:
+  data_export_identifier: "very_likely"
+  display_order: 1
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_5
+  reference_identifier: 
+  response_class: "answer"
+  short_text: "Very Likely"
+  text: "Very Likely"
+20100709000312_answer_22:
+  data_export_identifier: "likely"
+  display_order: 2
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_5
+  reference_identifier: 
+  response_class: "answer"
+  short_text: "Likely"
+  text: "Likely"
+20100709000312_answer_23:
+  data_export_identifier: "neutral"
+  display_order: 3
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_5
+  reference_identifier: 
+  response_class: "answer"
+  short_text: "Neutral"
+  text: "Neutral"
+20100709000312_answer_24:
+  data_export_identifier: "unlikely"
+  display_order: 4
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_5
+  reference_identifier: 
+  response_class: "answer"
+  short_text: "Unlikely"
+  text: "Unlikely"
+20100709000312_answer_25:
+  data_export_identifier: "very_unlikely"
+  display_order: 5
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_5
+  reference_identifier: 
+  response_class: "answer"
+  short_text: "Very Unlikely"
+  text: "Very Unlikely"
+20100709000312_answer_26:
+  data_export_identifier: "yes"
+  display_order: 1
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_6
+  reference_identifier: "1"
+  response_class: "answer"
+  short_text: "Yes"
+  text: "Yes"
+20100709000312_answer_27:
+  data_export_identifier: "no"
+  display_order: 2
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_6
+  reference_identifier: "2"
+  response_class: "answer"
+  short_text: "No"
+  text: "No"
+20100709000312_answer_28:
+  data_export_identifier: "very_satisfied"
+  display_order: 1
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_7
+  reference_identifier: 
+  response_class: "answer"
+  short_text: "Very Satisfied"
+  text: "Very Satisfied"
+20100709000312_answer_29:
+  data_export_identifier: "satisfied"
+  display_order: 2
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_7
+  reference_identifier: 
+  response_class: "answer"
+  short_text: "Satisfied"
+  text: "Satisfied"
+20100709000312_answer_30:
+  data_export_identifier: "neutral"
+  display_order: 3
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_7
+  reference_identifier: 
+  response_class: "answer"
+  short_text: "Neutral"
+  text: "Neutral"
+20100709000312_answer_31:
+  data_export_identifier: "dissatisfied"
+  display_order: 4
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_7
+  reference_identifier: 
+  response_class: "answer"
+  short_text: "Dissatisfied"
+  text: "Dissatisfied"
+20100709000312_answer_32:
+  data_export_identifier: "very_dissatisfied"
+  display_order: 5
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_7
+  reference_identifier: 
+  response_class: "answer"
+  short_text: "Very Dissatisfied"
+  text: "Very Dissatisfied"
+20100709000312_answer_33:
+  data_export_identifier: "very_satisfied"
+  display_order: 1
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_8
+  reference_identifier: 
+  response_class: "answer"
+  short_text: "Very Satisfied"
+  text: "Very Satisfied"
+20100709000312_answer_34:
+  data_export_identifier: "satisfied"
+  display_order: 2
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_8
+  reference_identifier: 
+  response_class: "answer"
+  short_text: "Satisfied"
+  text: "Satisfied"
+20100709000312_answer_35:
+  data_export_identifier: "neutral"
+  display_order: 3
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_8
+  reference_identifier: 
+  response_class: "answer"
+  short_text: "Neutral"
+  text: "Neutral"
+20100709000312_answer_36:
+  data_export_identifier: "dissatisfied"
+  display_order: 4
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_8
+  reference_identifier: 
+  response_class: "answer"
+  short_text: "Dissatisfied"
+  text: "Dissatisfied"
+20100709000312_answer_37:
+  data_export_identifier: "very_dissatisfied"
+  display_order: 5
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_8
+  reference_identifier: 
+  response_class: "answer"
+  short_text: "Very Dissatisfied"
+  text: "Very Dissatisfied"
+20100709000312_answer_38:
+  data_export_identifier: "very_likely"
+  display_order: 1
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_9
+  reference_identifier: 
+  response_class: "answer"
+  short_text: "Very Likely"
+  text: "Very Likely"
+20100709000312_answer_39:
+  data_export_identifier: "likely"
+  display_order: 2
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_9
+  reference_identifier: 
+  response_class: "answer"
+  short_text: "Likely"
+  text: "Likely"
+20100709000312_answer_40:
+  data_export_identifier: "neutral"
+  display_order: 3
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_9
+  reference_identifier: 
+  response_class: "answer"
+  short_text: "Neutral"
+  text: "Neutral"
+20100709000312_answer_41:
+  data_export_identifier: "unlikely"
+  display_order: 4
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_9
+  reference_identifier: 
+  response_class: "answer"
+  short_text: "Unlikely"
+  text: "Unlikely"
+20100709000312_answer_42:
+  data_export_identifier: "very_unlikely"
+  display_order: 5
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_9
+  reference_identifier: 
+  response_class: "answer"
+  short_text: "Very Unlikely"
+  text: "Very Unlikely"
+20100709000312_answer_43:
+  data_export_identifier: "comments"
+  display_order: 1
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_10
+  reference_identifier: 
+  response_class: "text"
+  short_text: "Comments:"
+  text: "Comments:"
+20100709000312_answer_44:
+  data_export_identifier: "comments"
+  display_order: 1
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_11
+  reference_identifier: 
+  response_class: "text"
+  short_text: "Comments:"
+  text: "Comments:"
+20100709000312_answer_45:
+  data_export_identifier: "comments"
+  display_order: 1
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_12
+  reference_identifier: 
+  response_class: "text"
+  short_text: "Comments:"
+  text: "Comments:"
+20100709000312_answer_46:
+  data_export_identifier: "yes"
+  display_order: 1
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_13
+  reference_identifier: "1"
+  response_class: "answer"
+  short_text: "Yes"
+  text: "Yes"
+20100709000312_answer_47:
+  data_export_identifier: "no"
+  display_order: 2
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_13
+  reference_identifier: "2"
+  response_class: "answer"
+  short_text: "No"
+  text: "No"
+20100709000312_answer_48:
+  data_export_identifier: "name"
+  display_order: 1
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_14
+  reference_identifier: 
+  response_class: "string"
+  short_text: "name"
+  text: "name"
+20100709000312_answer_49:
+  data_export_identifier: "e_mail_address"
+  display_order: 1
+  hide_label: false
+  is_exclusive: false
+  question: 20100709000312_question_15
+  reference_identifier: 
+  response_class: "string"
+  short_text: "E-mail Address"
+  text: "E-mail Address"
