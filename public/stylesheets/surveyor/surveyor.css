@@ -9,13 +9,15 @@ body {
 
 #flash {
   background-color: transparent;
-  color: red;
-  width: 98%;
-  position: absolute;
-  top: 0;
-  left: 0;
-  z-index: 1000;
-  text-align: center; }
+  color: #336600;
+  text-align: center; 
+    border: 2px solid #336600;
+    padding: .5em;
+margin: 1em 2.2em 0em;
+    background: #D0FFA1;
+
+
+}
 
 #surveyor {
   width: 960px;
