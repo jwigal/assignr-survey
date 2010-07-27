@@ -25,7 +25,7 @@ body {
   color: #213e00; }
   #surveyor #survey_list ul {
     padding-left: 2em;
-    margin-top: -2em; }
+}
   #surveyor #menu {
     width: 11.9em;
     margin: 0.65em -1em 0 0;
@@ -46,8 +46,7 @@ body {
         border-bottom-width: 1px;
         border-color: #bcbcbc; }
       #surveyor #menu ul li.active, #surveyor #menu ul li.active input[type="submit"] {
-        background-color: #ebebcc;
-        color: #262626; }
+}
   #surveyor #header {
     font-family: "Trebuchet MS",Arial,sans-serif;
     padding: 1em 1em 1em 1em;
@@ -80,12 +79,12 @@ display:none}
     margin: 0.55em; }
   #surveyor input[type="submit"] {
     font-size: 1.0em;
-    border: 0px;
     padding: 0.2em;
     margin: 0.2em;
     cursor: pointer;
-    background-color: #dcdcdc;
-    color: #464646; }
+/*    background-color: #dcdcdc;
+    color: #464646; 
+*/    }
   #surveyor input[type="text"], #surveyor textarea {
     border: 2px inset #333;
     border-color: #bcbcbc;
