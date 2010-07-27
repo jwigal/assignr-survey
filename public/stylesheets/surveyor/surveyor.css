@@ -1,5 +1,5 @@
 body {
-  background-color: #dcdcdc;
+  background-color: #ececdf;
   font-family: Helvetica;
   word-spacing: normal;
   text-align: left;
@@ -21,7 +21,7 @@ body {
   width: 960px;
   padding: 1em;
   margin: 0 auto;
-  background-color: #fffff4;
+  background-color: #ffffff;
   color: #213e00; }
   #surveyor #survey_list ul {
     padding-left: 2em;
@@ -49,11 +49,13 @@ body {
         background-color: #ebebcc;
         color: #262626; }
   #surveyor #header {
-    font-family: "Century Gothic";
-    padding: 0.5em 1em 1em 0.3em;
-    margin: 0;
+    font-family: "Trebuchet MS",Arial,sans-serif;
+    padding: 1em 1em 1em 1em;
     font-size: 2em;
-    font-weight: bolid; }
+    font-weight: bold; 
+background-color: #617494;
+    color: #eed86a;
+}
   #surveyor .previous_section {
     font-size: 0.8em;
     margin: -0.6em 0 0.5em -1em;
@@ -69,9 +71,9 @@ body {
     #surveyor .survey_section .title {
       font-weight: bold;
       font-size: 1.2em;
-      margin: 0;
-      padding: 0.3em 0.5em 0.1em 1.4em;
-      background-color: #ebebcc; }
+      padding: .6em;
+      background-color: #ebebcc; 
+display:none}
   #surveyor p {
     padding: 0.3em;
     margin: 0.5em;
@@ -104,7 +106,7 @@ body {
     border-color: #bcbcbc; }
   #surveyor .questions {
     margin: 0;
-    padding: 1em 0.3em; }
+    padding: 1em 1em; }
   #surveyor .question {
     margin: 0 0 0.6em 0;
     padding: 0.2em; }
@@ -150,8 +152,10 @@ body {
       padding: 0.5em;
       font-weight: bold; }
   #surveyor .dependent {
-    background-color: #dfdfd4;
-    margin-left: 1.2em; }
+    background-color: #eedb6a;
+    margin-left: 1.2em; 
+    padding: 1.2em;
+}
   #surveyor .hidden {
     display: none; }
   #surveyor .column_highlight {
@@ -228,3 +232,4 @@ body {
       font-weight: bold;
       font-size: 1em;
       letter-spacing: 0; }
+#surveyor .questions .question .number{display:none}
