@@ -4,7 +4,7 @@ Surveyor::Config.run do |config|
   config['default.title'] = nil # "You can take these surveys:"
   config['default.layout'] = nil # "surveyor_default"
   config['default.index'] =  nil # "/surveys" # or :index_path_method
-  config['default.finish'] =  nil # "/surveys" # or :finish_path_method
+  config['default.finish'] =  "http://assignr.com/welcome" # "/surveys" # or :finish_path_method
   config['use_restful_authentication'] = false # set to true to use restful authentication
   config['extend'] = %w() # %w(survey surveyor_helper surveyor_controller)
 end
