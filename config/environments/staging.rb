@@ -26,3 +26,4 @@ config.action_view.cache_template_loading            = true
 
 # Enable threaded mode
 # config.threadsafe!
+Rubaidh::GoogleAnalytics.tracker_id = 'UA-16054035-1'
